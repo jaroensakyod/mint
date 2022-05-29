@@ -1,0 +1,31 @@
+:root { 
+  --black: #000000;
+  --ice-cold: #affff0;
+  --viking: #56ccf2;
+  --white: #ffffff;
+ 
+  --font-size-m: 40px;
+  --font-size-s: 32px;
+  --font-size-xs: 24px;
+  --font-size-xxs: 16px;
+  --font-size-xxxs: 12px;
+ 
+  --font-family-genos: "Genos", Helvetica;
+  --font-family-montserrat: "Montserrat", Helvetica;
+  --font-family-roboto: "Roboto", Helvetica;
+}
+.montserrat-bold-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.montserrat-semi-bold-viking-16px {
+  color: var(--viking);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 600;
+}
