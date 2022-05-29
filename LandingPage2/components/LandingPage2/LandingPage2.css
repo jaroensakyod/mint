@@ -117,7 +117,7 @@
   min-width: 86px;
   padding: 6.2px 6.7px;
   position: absolute;
-  top: 44px;
+  top: 48px;
 }
 
 .number {
@@ -127,7 +127,7 @@
   font-weight: 700;
   letter-spacing: 0.10px;
   line-height: 36px;
-  min-height: 50px;
+  min-height: 32px;
   width: 43px;
 }
 
@@ -328,7 +328,7 @@
   height: 68px;
   margin-left: 46px;
   overflow: hidden;
-  padding: 15px 38.0px;
+  padding: 15px 56.0px;
   width: 236px;
 }
 

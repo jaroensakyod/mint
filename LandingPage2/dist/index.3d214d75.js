@@ -2503,7 +2503,7 @@ process.umask = function() {
     return 0;
 };
 
-},{}],"dB9nQ":[function(require,module,exports) {
+},{}],"bASk5":[function(require,module,exports) {
 "use strict";
 var global = arguments[3];
 var HMR_HOST = null;
@@ -24563,7 +24563,7 @@ const landingPage2Data = {
     totalSupply33033333: "Total Supply 3303/3333",
     community: "Community",
     roadmap: "Roadmap",
-    surname: "White Paper",
+    surname: "Mint Now",
     x51: "/img/5-1@2x.png",
     copywright2022Rnx: "Copywright 2022. Rnx"
 };
@@ -28019,6 +28019,6 @@ function registerExportsForReactRefresh(module) {
     }
 }
 
-},{"react-refresh/runtime":"786KC"}]},["1xC6H","dB9nQ","bB7Pu"], "bB7Pu", "parcelRequire3745")
+},{"react-refresh/runtime":"786KC"}]},["1xC6H","bASk5","bB7Pu"], "bB7Pu", "parcelRequire3745")
 
 //# sourceMappingURL=index.3d214d75.js.map

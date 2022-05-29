@@ -173,7 +173,7 @@
   padding: 6.2px 6.7px;
   display: flex;
   position: absolute;
-  top: 44px;
+  top: 48px;
   left: 201px;
 }
 
@@ -182,7 +182,7 @@
   font-family: var(--font-family-montserrat);
   font-size: var(--font-size-xl);
   letter-spacing: .1px;
-  min-height: 50px;
+  min-height: 32px;
   width: 43px;
   font-weight: 700;
   line-height: 36px;
@@ -383,7 +383,7 @@
   align-self: flex-end;
   align-items: flex-start;
   margin-left: 46px;
-  padding: 15px 38px;
+  padding: 15px 56px;
   display: flex;
   overflow: hidden;
   box-shadow: 0 10px 30px #b6322633;
